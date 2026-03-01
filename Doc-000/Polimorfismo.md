@@ -51,5 +51,5 @@ Agora que passamos pelos 4 pilares, veja como eles se conectam:
  * Encapsulamento: Protege os dados do objeto.
  * Herança: Reaproveita código entre moldes parecidos.
  * Polimorfismo: Faz objetos diferentes agirem de formas diferentes sob o mesmo comando.
-Gostaria que eu montasse um pequeno projeto prático (em código real) que utilize todos esses pilares juntos para você ver a "mágica" acontecer?
+
 
