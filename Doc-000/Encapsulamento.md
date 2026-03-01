@@ -38,5 +38,5 @@ Por que isso é melhor? Se o saldo fosse público, qualquer parte do programa po
 Encapsular não é apenas "esconder" por esconder, mas sim criar uma fronteira protegida. O objeto passa a ser responsável pela integridade dos seus próprios dados.
 > "Peça ao objeto para fazer algo, não mexa nas entranhas dele."
 > 
-Com isso, cobrimos os principais conceitos (Classe, Objeto, Herança e Encapsulamento). Gostaria que eu criasse um sistema completo unindo todos esses conceitos em um código real para você estudar?
+cobrimos os principais conceitos (Classe, Objeto, Herança e Encapsulamento)
 
