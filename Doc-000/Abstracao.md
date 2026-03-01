@@ -57,5 +57,5 @@ class PagamentoPix extends Pagamento {
  * Facilidade de Expansão: Se amanhã surgir o "Pagamento via Cripto", basta criar uma nova classe que estenda Pagamento, sem quebrar o que já existe.
  * Organização: Ajuda a separar o domínio do problema (regras de negócio) da implementação técnica.
 Dica de ouro: Sempre que você se pegar escrevendo um código e pensar "isso aqui é um conceito geral que várias coisas diferentes vão usar", você provavelmente encontrou um candidato perfeito para uma classe abstrata.
-Gostaria que eu demonstrasse como aplicar esse conceito de abstração usando Interfaces ou prefere ver um exemplo em outra linguagem como Python ou JavaScript?
+
 
