@@ -37,4 +37,4 @@ Ao herdar de Veiculo, não precisamos redefinir marca ou ano. Apenas focamos no 
 6. Cuidados Importantes
  * Acoplamento: Se a classe pai mudar drasticamente, todas as filhas podem quebrar.
  * Herança Múltipla: Algumas linguagens (como Java e C#) não permitem que uma classe tenha dois pais diretos para evitar confusão, enquanto outras (como Python e C++) permitem.
-Quer que eu transforme esse conceito de Herança em um código real em Python ou Java para você ver como as palavras-chave extends ou super() funcionam?
+
