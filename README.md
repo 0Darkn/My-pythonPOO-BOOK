@@ -1,6 +1,5 @@
 
-Vou explicar POO (Programação Orientada a Objetos) de forma clara e depois desenvolver um Index completo em Python usando POO, estruturado de forma profissional para colocar no GitHub.
-
+POO (Programação Orientada a Objetos) 
 
 ---
 
